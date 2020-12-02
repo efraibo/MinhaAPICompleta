@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OlLdk/Hfg6mx2rbxO7FAsh6ImpGJl3oj2v6paHVSAEgIIIH26qLTwBo7MGfGAQAUazAwWENmki3nJTBQiIXPig==",
+  "dgSpecHash": "tGRwpwR9NmOKJyIes/MezXwUCbWHWEZLlImx+U33AmVd8zyuIaMPv6xykTCy6hQEF66rgQoIYPhFBS3zvGXiyQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\courses\\dotnet\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ejn\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
-    "C:\\Users\\ejn\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    "C:\\Users\\ejn\\.nuget\\packages\\editorconfig\\0.12.2\\editorconfig.0.12.2.nupkg.sha512",
+    "C:\\Users\\ejn\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512"
   ],
   "logs": []
 }

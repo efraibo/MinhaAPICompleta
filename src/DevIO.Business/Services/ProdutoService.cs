@@ -1,22 +1,21 @@
-﻿using System;
-using System.Threading.Tasks;
-using DevIO.Business.Intefaces;
+﻿using DevIO.Business.Intefaces;
 using DevIO.Business.Models;
 using DevIO.Business.Models.Validations;
+using System;
+using System.Threading.Tasks;
 
 namespace DevIO.Business.Services
 {
     public class ProdutoService : BaseService, IProdutoService
     {
         private readonly IProdutoRepository _produtoRepository;
-        private readonly IUser _user;
+        //private readonly IUser _user;
 
         public ProdutoService(IProdutoRepository produtoRepository,
-                              INotificador notificador, 
-                              IUser user) : base(notificador)
+                              INotificador notificador/*, IUser user*/) : base(notificador)
         {
             _produtoRepository = produtoRepository;
-            _user = user;
+            //_user = user;
         }
 
         public async Task Adicionar(Produto produto)

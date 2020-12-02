@@ -8,24 +8,29 @@
     ".NETCoreApp,Version=v3.1": {
       "DevIO.Business/1.0.0": {
         "dependencies": {
-          "FluentValidation": "8.6.2"
+          "FluentValidation": "9.3.0",
+          "editorconfig": "0.12.2"
         },
         "runtime": {
           "DevIO.Business.dll": {}
         }
       },
-      "FluentValidation/8.6.2": {
-        "dependencies": {
-          "System.ComponentModel.Annotations": "4.4.1"
-        },
+      "editorconfig/0.12.2": {
         "runtime": {
-          "lib/netstandard2.0/FluentValidation.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.6.2.0"
+          "lib/netstandard2.0/EditorConfig.Core.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.12.2.0"
           }
         }
       },
-      "System.ComponentModel.Annotations/4.4.1": {}
+      "FluentValidation/9.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.3.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -34,19 +39,19 @@
       "serviceable": false,
       "sha512": ""
     },
-    "FluentValidation/8.6.2": {
+    "editorconfig/0.12.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-N2vz+f6pAX9AI19hu83U2LJjjc/ETzWGlICVanu3DIG76QhzEu3PR/CQSFBX69PRuBTivrW4jhBzeV7dXIfqyw==",
-      "path": "fluentvalidation/8.6.2",
-      "hashPath": "fluentvalidation.8.6.2.nupkg.sha512"
+      "sha512": "sha512-WfrSJdgV8YjXFDBlKOnVyKI+ErKFSzR8tlWIsJklmMSuTmFaIOQCu4+S9h5PHMPXf/fkeTeYwDg8g31ErhNJGQ==",
+      "path": "editorconfig/0.12.2",
+      "hashPath": "editorconfig.0.12.2.nupkg.sha512"
     },
-    "System.ComponentModel.Annotations/4.4.1": {
+    "FluentValidation/9.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
-      "path": "system.componentmodel.annotations/4.4.1",
-      "hashPath": "system.componentmodel.annotations.4.4.1.nupkg.sha512"
+      "sha512": "sha512-C44l6Ih+YwpED/TsXfl6LIq6Z4wLXahstnr6T70uUg1Hs7/bLBKKAo9Nl0sLhVjDE8TA+fF+O3IM4nDrwabcSQ==",
+      "path": "fluentvalidation/9.3.0",
+      "hashPath": "fluentvalidation.9.3.0.nupkg.sha512"
     }
   }
 }

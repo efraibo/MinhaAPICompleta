@@ -1,4 +1,6 @@
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
@@ -6,10 +8,8 @@ C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\De
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
-C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
-C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
 C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.genruntimeconfig.cache
-C:\dev\courses\dotnet\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
